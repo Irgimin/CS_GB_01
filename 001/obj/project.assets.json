@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kynep\\.nuget\\packages\\": {}
+    "C:\\Users\\Kynep\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GB\\VSC\\CS\\Курс\\001\\001.csproj",
+      "projectUniqueName": "C:\\Disc\\GeekBrains\\VSC\\CS\\Курс\\001\\001.csproj",
       "projectName": "001",
-      "projectPath": "C:\\GB\\VSC\\CS\\Курс\\001\\001.csproj",
+      "projectPath": "C:\\Disc\\GeekBrains\\VSC\\CS\\Курс\\001\\001.csproj",
       "packagesPath": "C:\\Users\\Kynep\\.nuget\\packages\\",
-      "outputPath": "C:\\GB\\VSC\\CS\\Курс\\001\\obj\\",
+      "outputPath": "C:\\Disc\\GeekBrains\\VSC\\CS\\Курс\\001\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kynep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kynep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

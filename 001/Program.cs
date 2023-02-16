@@ -1,11 +1,4 @@
-﻿// С клавиатуры вводится целое число. Вывести квадрат числа (блок-схема)
-/*
+﻿// 1. С клавиатуры вводится целое число. Вывести квадрат числа 
 
-*/
-
-string? s;
-int a;
-s=Console.ReadLine();
-a=Convert.ToInt32(s);
-
+int a=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(a*a);
